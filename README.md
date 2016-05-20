@@ -27,11 +27,11 @@ Examples:
 ```
 
 ## Development
-`git clone https://github.com/rsocci/ember-ordinal-indicators.git`
-`npm install`
+* `git clone https://github.com/rsocci/ember-ordinal-indicators.git`
+* `npm install`
 
 ## Running Tests
-`ember test`
-`ember test --server`
+* `ember test`
+* `ember test --server`
 
 For more information on using ember-cli, visit [http://ember-cli.com/](http://ember-cli.com/).
