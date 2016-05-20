@@ -1,26 +1,35 @@
 # Ember-ordinal-indicators
 
-This README outlines the details of collaborating on this Ember addon.
+Helper for obtaining the ordinal indicator of a number.
 
 ## Installation
 
-* `git clone` this repository
-* `npm install`
-* `bower install`
+`npm install ember-ordinal-indicators --save-dev`
 
-## Running
+with ember-cli:
 
-* `ember server`
-* Visit your app at http://localhost:4200.
+`ember install ember-ordinal-indicators`
+
+## Usage
+
+```hbs
+{{ordinal-for <number>}}
+```
+
+Examples:
+
+```hbs
+{{ordinal-for 1}} {{! => st}}
+{{ordinal-for 2}} {{! => nd}}
+{{ordinal-for 3}} {{! => rd}}
+```
+
+## Development
+`git clone https://github.com/rsocci/ember-ordinal-indicators.git`
+`npm install`
 
 ## Running Tests
-
-* `npm test` (Runs `ember try:testall` to test your addon against multiple Ember versions)
-* `ember test`
-* `ember test --server`
-
-## Building
-
-* `ember build`
+`ember test`
+`ember test --server`
 
 For more information on using ember-cli, visit [http://ember-cli.com/](http://ember-cli.com/).
