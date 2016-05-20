@@ -1,4 +1,6 @@
 # Ember-ordinal-indicators
+[![Build
+Status](https://travis-ci.com/rsocci/ember-ordinal-indicators.svg?token=u8nEZqCti1s9YTdNGA5X&branch=master)](https://travis-ci.com/rsocci/ember-ordinal-indicators)
 
 Helper for obtaining the ordinal indicator of a number.
 
