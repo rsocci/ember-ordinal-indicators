@@ -3,7 +3,7 @@
 Status](https://travis-ci.com/rsocci/ember-ordinal-indicators.svg?token=u8nEZqCti1s9YTdNGA5X&branch=master)](https://travis-ci.com/rsocci/ember-ordinal-indicators)
 
 Helper for obtaining the ordinal indicator of a number.
-It one of the following suffixes: `st`, `nd`, `rd`, or `th`.
+It returns one of the following suffixes: `st`, `nd`, `rd`, or `th`.
 
 ## Installation
 
