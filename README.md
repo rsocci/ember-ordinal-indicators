@@ -1,6 +1,6 @@
 # ember-ordinal-indicators
 [![Build
-Status](https://travis-ci.com/rsocci/ember-ordinal-indicators.svg?token=u8nEZqCti1s9YTdNGA5X&branch=master)](https://travis-ci.com/rsocci/ember-ordinal-indicators)
+Status](https://travis-ci.org/rsocci/ember-ordinal-indicators.svg?branch=master)](https://travis-ci.org/rsocci/ember-ordinal-indicators)
 
 Helper for obtaining the ordinal indicator of a number.
 It returns one of the following suffixes: `st`, `nd`, `rd`, or `th`.
