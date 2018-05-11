@@ -5,4 +5,12 @@
   <hr>
 {{/each}}
 
+<h2>Race Results (programatically)!</h2>
+
+{{#each programaticPlaces as |finisher|}}
+  {{finisher.name}}: {{finisher.placement}} place
+  <hr>
+{{/each}}
+
+
 {{outlet}}
